@@ -1,0 +1,52 @@
+* {
+    text-align: center;
+}
+
+body {
+    font-family: Arial;
+}
+
+.mepic {
+    border-radius: 50%;
+    border: 1px solid purple;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+#home {
+    background-color: #def3fd;
+    padding: 50px;
+}
+
+#ambition {
+    background-color: #fcf7de;
+    padding: 50px;
+}
+
+#myself {
+    background-color: #defde0;
+    padding: 50px;
+}
+
+#interests {
+    background-color: white;
+    padding: 50px;
+}
+
+#contact {
+    padding-bottom: 50px;
+}
+
+p {
+    text-align: left;
+    max-width: 650px;
+    margin: 0 auto;
+}
+
+li {
+    margin-left: 300px;
+    text-align: left;
+    max-width: 650px;
+}
