@@ -17,7 +17,7 @@ body {
 
 #home {
     background-color: #def3fd;
-    padding: 50px;
+    padding: 65px;
 }
 
 #ambition {
@@ -49,4 +49,11 @@ li {
     margin-left: 300px;
     text-align: left;
     max-width: 650px;
+}
+
+#nav {
+    position: fixed;
+    top: 20px;
+    left: 565px;
+    background-color: white;
 }
